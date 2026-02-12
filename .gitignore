@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Packaging/build artifacts
+dist/
+build/
+*.egg-info/
+
+# IDE and editor
+.vscode/

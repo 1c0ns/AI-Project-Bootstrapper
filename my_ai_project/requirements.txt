@@ -1,0 +1,9 @@
+# Minimal baseline for embedding/classification workflows (trim as you go)
+numpy
+scipy
+scikit-learn
+requests
+tqdm
+torch
+transformers
+sentence-transformers
